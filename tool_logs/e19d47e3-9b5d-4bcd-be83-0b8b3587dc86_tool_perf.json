@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "tool_name": "none",
+      "success": true,
+      "latency_ms": 10,
+      "step_id": "4951d0a3-5a55-4fb0-b6a5-aabd69d8d3c0",
+      "error_message": null,
+      "created_at": "2025-11-24T20:52:33.992574"
+    },
+    {
+      "tool_name": "python",
+      "success": false,
+      "latency_ms": 0,
+      "step_id": "fe995d82-fb1d-4555-aef1-5ce1c8caa23a",
+      "error_message": "Simulated complex step failure for demonstration",
+      "created_at": "2025-11-24T20:52:33.992574"
+    },
+    {
+      "tool_name": "calculator",
+      "success": true,
+      "latency_ms": 50,
+      "step_id": "b643419a-3d57-4434-990a-814d2de92dc7",
+      "error_message": null,
+      "created_at": "2025-11-24T20:52:33.992574"
+    },
+    {
+      "tool_name": "none",
+      "success": true,
+      "latency_ms": 10,
+      "step_id": "49b71e48-d798-4b25-a155-5c5d1bdd3adf",
+      "error_message": null,
+      "created_at": "2025-11-24T20:52:33.992574"
+    }
+  ]
+}

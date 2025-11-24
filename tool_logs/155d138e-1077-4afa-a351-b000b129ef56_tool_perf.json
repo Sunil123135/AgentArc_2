@@ -1,0 +1,52 @@
+{
+  "records": [
+    {
+      "tool_name": "none",
+      "success": true,
+      "latency_ms": 10,
+      "step_id": "ffa8ad1f-39b3-4ad8-94d2-e01c51cc2577",
+      "error_message": null,
+      "created_at": "2025-11-24T20:44:35.276389"
+    },
+    {
+      "tool_name": "python",
+      "success": false,
+      "latency_ms": 0,
+      "step_id": "7e3944ca-a081-44e6-b7e1-f00b5c6c5439",
+      "error_message": "Simulated tool 'python' outage",
+      "created_at": "2025-11-24T20:44:35.276389"
+    },
+    {
+      "tool_name": "calculator",
+      "success": false,
+      "latency_ms": 0,
+      "step_id": "eb3f494d-daee-410d-bf2e-5333a1f8c2cb",
+      "error_message": "Simulated MCP tool channel unavailable",
+      "created_at": "2025-11-24T20:44:35.276389"
+    },
+    {
+      "tool_name": "python",
+      "success": false,
+      "latency_ms": 0,
+      "step_id": "65513d4c-104d-473f-87a8-2cf57538b032",
+      "error_message": "Simulated tool 'python' outage",
+      "created_at": "2025-11-24T20:44:35.278409"
+    },
+    {
+      "tool_name": "calculator",
+      "success": true,
+      "latency_ms": 50,
+      "step_id": "86d3cd95-de81-419c-9dbb-84bc1cc8d83c",
+      "error_message": null,
+      "created_at": "2025-11-24T20:44:35.278409"
+    },
+    {
+      "tool_name": "none",
+      "success": true,
+      "latency_ms": 10,
+      "step_id": "be2abc5d-985e-4d41-8fea-fa89c3d6a1df",
+      "error_message": null,
+      "created_at": "2025-11-24T20:44:35.278409"
+    }
+  ]
+}

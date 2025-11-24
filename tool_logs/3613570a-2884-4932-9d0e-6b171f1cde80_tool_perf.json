@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "tool_name": "none",
+      "success": true,
+      "latency_ms": 10,
+      "step_id": "b614f935-3713-4ae4-a067-97aa6bbf2edf",
+      "error_message": null,
+      "created_at": "2025-11-24T20:44:53.742037"
+    },
+    {
+      "tool_name": "python",
+      "success": true,
+      "latency_ms": 50,
+      "step_id": "7395db5c-1576-409b-8795-8f441aa10006",
+      "error_message": null,
+      "created_at": "2025-11-24T20:44:53.742037"
+    },
+    {
+      "tool_name": "python",
+      "success": true,
+      "latency_ms": 50,
+      "step_id": "2ef85dd7-e19d-4ec6-9a4d-809596f0d625",
+      "error_message": null,
+      "created_at": "2025-11-24T20:44:53.742037"
+    },
+    {
+      "tool_name": "none",
+      "success": true,
+      "latency_ms": 10,
+      "step_id": "dd4475df-eca7-434d-92d2-dc630b3cc320",
+      "error_message": null,
+      "created_at": "2025-11-24T20:44:53.742037"
+    }
+  ]
+}

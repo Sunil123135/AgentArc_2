@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "tool_name": "python",
+      "success": false,
+      "latency_ms": 0,
+      "step_id": "fc200ed2-08e2-4597-bd25-28d2566316ed",
+      "error_message": "Tool python failed on first attempt",
+      "created_at": "2025-11-24T19:11:03.001235"
+    },
+    {
+      "tool_name": "calculator",
+      "success": true,
+      "latency_ms": 50,
+      "step_id": "890af817-9aea-48c4-a62d-66ce23041c44",
+      "error_message": null,
+      "created_at": "2025-11-24T19:11:03.003249"
+    }
+  ]
+}
